@@ -16,19 +16,16 @@
     "alfred-helper": "git://github.com/johneppillar/alfred_helper_lib",
     "dateformat": "^3.0.3",
     "dotenv": "^8.2.0",
-    "fs": "^0.0.2",
-    "pg": "^8.0.3",
     "pure-uuid": "^1.6.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.5",
     "restify": "^8.5.1",
     "restify-router": "^0.5.1",
-    "mqtt": "^4.0.0",
-    "path": "^0.12.7",
-    "snyk": "^1.316.2"
+    "mqtt": "^4.0.1",
+    "snyk": "^1.321.0"
   },
   "devDependencies": {
-    "eslint": "^6.8.0",
+    "eslint": "^7.0.0",
     "eslint-config-airbnb-base": "^14.1.0",
     "eslint-plugin-import": "^2.20.2"
   }
