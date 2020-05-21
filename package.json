@@ -21,8 +21,8 @@
     "request-promise": "^4.2.5",
     "restify": "^8.5.1",
     "restify-router": "^0.5.1",
-    "mqtt": "^4.0.1",
-    "snyk": "^1.321.0"
+    "mqtt": "^4.1.0",
+    "snyk": "^1.323.2"
   },
   "devDependencies": {
     "eslint": "^7.0.0",
