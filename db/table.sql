@@ -8,4 +8,4 @@ CREATE TABLE dyson_purecool (
   nitrogen        DOUBLE PRECISION  NULL
 )
 
-SELECT create_hypertable('dyson_purecool', 'time', 'location');
+SELECT create_hypertable('dyson_purecool', 'time');
