@@ -15,11 +15,9 @@
   "dependencies": {
     "alfred-base": "git://github.com/johneppillar/alfred_base_service",
     "alfred-helper": "git://github.com/johneppillar/alfred_helper",
-    "pino": "^6.4.0",
-    "pino-pretty": "^4.1.0",
     "dotenv": "^8.2.0",
     "mqtt": "^4.1.0",
-    "snyk": "^1.364.0"
+    "snyk": "^1.364.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
