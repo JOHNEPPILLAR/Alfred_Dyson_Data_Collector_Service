@@ -1,6 +1,6 @@
 {
   "name": "alfred_dyson_data_collector_service",
-  "version": "3.0.26",
+  "version": "3.0.27",
   "description": "ALFRED - Dyson data Collector Service",
   "author": "JP",
   "license": "MIT",
