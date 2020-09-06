@@ -20,7 +20,7 @@
     "mqtt": "^4.2.1",
     "crypto": "^1.0.1",
     "bonjour": "^3.5.0",
-    "snyk": "^1.388.0"
+    "snyk": "^1.389.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
