@@ -1,7 +1,9 @@
 #!/usr/bin/env sh
 
 echo "Set env vars"
-URL=https://localhost:$PORT/ping
+PORT=3978
+SERVICE_NAME=$(node -p -e "require('./package.json').name")
+URL=https://$SERVICE_NAME:$PORT/ping
 
 echo "Call url"
 if [ $(curl -L --insecure $URL -o /dev/null -w '%{http_code}\n' -s) == "401" ]
