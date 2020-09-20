@@ -16,7 +16,6 @@
   "dependencies": {
     "alfred-base": "git://github.com/johneppillar/alfred_base_service",
     "alfred-helper": "git://github.com/johneppillar/alfred_helper",
-    "dotenv": "^8.2.0",
     "mqtt": "^4.2.1",
     "crypto": "^1.0.1",
     "moment": "^2.28.0",
