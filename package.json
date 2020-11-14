@@ -16,17 +16,17 @@
   "dependencies": {
     "alfred-base": "git://github.com/johneppillar/alfred_base_service",
     "alfred-helper": "git://github.com/johneppillar/alfred_helper",
-    "mqtt": "^4.2.2",
     "crypto": "^1.0.1",
+    "dyson-node": "^0.2.3",
     "moment": "^2.29.1",
-    "snyk": "^1.421.1",
-    "dyson-node": "^0.2.3"
+    "mqtt": "^4.2.5",
+    "snyk": "^1.426.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.12.1",
-    "eslint-config-airbnb": "^18.2.0",
-    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
