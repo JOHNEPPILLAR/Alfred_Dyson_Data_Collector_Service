@@ -18,7 +18,7 @@
     "dyson-node": "^0.2.3",
     "moment": "^2.29.1",
     "mqtt": "^4.2.5",
-    "snyk": "^1.426.0"
+    "snyk": "^1.427.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
