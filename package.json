@@ -12,6 +12,7 @@
   "dependencies": {
     "alfred-base": "git://github.com/johneppillar/alfred_base_service",
     "alfred-helper": "git://github.com/johneppillar/alfred_helper",
+    "crypto": "^1.0.1",
     "debug": "4.3.1",
     "dotenv": "^8.2.0",
     "dyson-node": "^0.2.3",
